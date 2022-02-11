@@ -13,7 +13,9 @@ Every influencer belongs to a platform and each influencer can have many tags.
 
 To send the data to our front end, we are using Active Model Serializers - details here <a> https://www.rubydoc.info/gems/active_model_serializers/0.9.1 </a>
 
-Please help us fix the the API so our Influencery project will work. 
+Please help us fix the the API so our Influencery project will work.
+
+Finaly please add a primary_tag field to the Influencer model. This should reference a Tag ID and every Influencer MUST have a primary_tag.
 
 ## To get started
 

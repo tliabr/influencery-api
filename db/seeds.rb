@@ -58,161 +58,187 @@ influencers = [
     handle: 'mattholland8',
     followers: 80_024,
     profile_pic_url: 'https://pbs.twimg.com/profile_images/1359778507224723457/QrykIUlp.jpg',
-    platform_id: 5
+    platform_id: 5,
+    primary_tag_id: 1
   },
   {
     handle: 'markiplier',
     followers: 12_224_835,
     profile_pic_url: 'https://res.cloudinary.com/goatagency/image/upload/v1622730992/hqnmkypfrwo6ahcray09.jpg',
-    platform_id: 5
+    platform_id: 5,
+    primary_tag_id: 2
   },
   {
     handle: 'unboxfactory',
     followers: 1_272_228,
     profile_pic_url: 'https://res.cloudinary.com/goatagency/image/facebook/unboxfactory',
-    platform_id: 1
+    platform_id: 1,
+    primary_tag_id: 3
   },
   {
     handle: 'chyennenycole',
     followers: 53_166,
     profile_pic_url: 'https://res.cloudinary.com/goatagency/image/upload/v1622212174/zohg4mv3uwzzwyftgbhm.jpg',
-    platform_id: 2
+    platform_id: 2,
+    primary_tag_id: 4
   },
   {
     handle: 'daniellechantee',
     followers: 1097,
     profile_pic_url: 'https://res.cloudinary.com/goatagency/image/upload/v1622212076/zbg4oqjsuck9cxi63exu.jpg',
-    platform_id: 2
+    platform_id: 2,
+    primary_tag_id: 5
   },
   {
     handle: 'carolinabrunelli_',
     followers: 42_887,
     profile_pic_url: 'https://res.cloudinary.com/goatagency/image/upload/v1622212313/oeemcdidnxjzrdq3a9ei.jpg',
-    platform_id: 2
+    platform_id: 2,
+    primary_tag_id: 6
   },
   {
     handle: 'theofficialbencoomberpage',
     followers: 73_802,
     profile_pic_url: 'https://res.cloudinary.com/goatagency/image/facebook/theofficialbencoomberpage',
-    platform_id: 1
+    platform_id: 1,
+    primary_tag_id: 7
   },
 
   {
     handle: 'AmyWilliamsMBE',
     followers: 76_698,
     profile_pic_url: 'https://pbs.twimg.com/profile_images/1238852771388043264/U2hhFyw6.jpg',
-    platform_id: 5
+    platform_id: 5,
+    primary_tag_id: 8
   },
 
   {
     handle: 'craig100m',
     followers: 9582,
     profile_pic_url: 'https://pbs.twimg.com/profile_images/2822167890/44848ff90491f77ca1378bfbf763e6cf.jpeg',
-    platform_id: 5
+    platform_id: 5,
+    primary_tag_id: 9
   },
   {
     handle: 'simplycyn',
     followers: 257_281,
     profile_pic_url: 'https://res.cloudinary.com/goatagency/image/upload/v1622212626/k8cbsbbilxngqcppggtu.jpg',
-    platform_id: 2
+    platform_id: 2,
+    primary_tag_id: 10
   },
   {
     handle: 'officialbootbible',
     followers: 58_228,
     profile_pic_url: 'https://res.cloudinary.com/goatagency/image/upload/v1622212635/krmtvuvziwou7sqx2ffo.jpg',
-    platform_id: 2
+    platform_id: 2,
+    primary_tag_id: 11
   },
   {
     handle: 'jullie.jeine',
     followers: 3231,
     profile_pic_url: 'https://res.cloudinary.com/goatagency/image/upload/v1620383957/ogjyuxyfggk9cb4atfl4.jpg',
-    platform_id: 2
+    platform_id: 2,
+    primary_tag_id: 12
   },
   {
     handle: 'aminaagv',
     followers: 3082,
     profile_pic_url: 'https://res.cloudinary.com/goatagency/image/upload/v1620383972/ju2nsmf9oi7wbusuaw3j.jpg',
-    platform_id: 2
+    platform_id: 2,
+    primary_tag_id: 13
   },
   {
     handle: 'camiejuan',
     followers: 65_768,
     profile_pic_url: 'https://res.cloudinary.com/goatagency/image/upload/v1620626483/juhf30z144zz71x9egl9.jpg',
-    platform_id: 2
+    platform_id: 2,
+    primary_tag_id: 14
   },
   {
     handle: 'carlycushnie',
     followers: 37_597,
     profile_pic_url: 'https://res.cloudinary.com/goatagency/image/upload/v1622731155/il7prazs535pmwqszly8.jpg',
-    platform_id: 2
+    platform_id: 2,
+    primary_tag_id: 15
   },
   {
     handle: 'JohnHartson10',
     followers: 385_902,
     profile_pic_url: 'https://res.cloudinary.com/goatagency/image/upload/v1622345950/pncivasurhqvozamkmdo.jpg',
-    platform_id: 5
+    platform_id: 5,
+    primary_tag_id: 16
   },
   {
     handle: 'visheprasad',
     followers: 3001,
     profile_pic_url: 'https://pbs.twimg.com/profile_images/665001663694921728/zT1_Diqk.jpg',
-    platform_id: 5
+    platform_id: 5,
+    primary_tag_id: 17
   },
 
   {
     handle: 'SprinkleofChatter',
     followers: 1_121_635,
     profile_pic_url: 'https://res.cloudinary.com/goatagency/image/upload/v1622218197/bkk171jejttn4n9prx4i.jpg',
-    platform_id: 6
+    platform_id: 6,
+    primary_tag_id: 18
   },
   {
     handle: 'abnshe',
     followers: 3049,
     profile_pic_url: 'https://res.cloudinary.com/goatagency/image/upload/v1620383976/ff3coldchc09zuxjhf4j.jpg',
-    platform_id: 2
+    platform_id: 2,
+    primary_tag_id: 19
   },
   {
     handle: 'UCZ4_88Ml-QjKPOfQdfGON3w',
     followers: 109_000,
     profile_pic_url: 'https://yt3.ggpht.com/ytc/AAUvwniW-aBOhhVzHuhpHVFmPOmC32Na7vomuM73xtdboQ=s800-c-k-c0x00ffffff-no-rj',
-    platform_id: 6
+    platform_id: 6,
+    primary_tag_id: 20
   },
 
   {
     handle: 'chloeszep',
     followers: 674_035,
     profile_pic_url: 'https://res.cloudinary.com/goatagency/image/upload/v1620626593/j6kdt3dawrbjerln3kvj.jpg',
-    platform_id: 2
+    platform_id: 2,
+    primary_tag_id: 21
   },
   {
     handle: 'aasaelisabeth',
     followers: 34_588,
     profile_pic_url: 'https://res.cloudinary.com/goatagency/image/upload/v1622731305/wv99dn75zkabg3cab6h3.jpg',
-    platform_id: 2
+    platform_id: 2,
+    primary_tag_id: 22
   },
   {
     handle: 'gemmagoesglobal',
     followers: 4578,
     profile_pic_url: 'https://pbs.twimg.com/profile_images/1250497776187736064/Eler94DP.jpg',
-    platform_id: 5
+    platform_id: 5,
+    primary_tag_id: 23
   },
   {
     handle: 'RobbieSavage8',
     followers: 1_703_129,
     profile_pic_url: 'https://pbs.twimg.com/profile_images/1229822708810223621/4nqMr56E.jpg',
-    platform_id: 5
+    platform_id: 5,
+    primary_tag_id: 24
   },
   {
     handle: 'br.yy',
     followers: 14_371,
     profile_pic_url: 'https://res.cloudinary.com/goatagency/image/upload/v1622222343/slpr6txmfowjldlbyedo.jpg',
-    platform_id: 2
+    platform_id: 2,
+    primary_tag_id: 25
   },
   {
     handle: 'awnnetwork.org',
     followers: 79_337,
     profile_pic_url: 'https://res.cloudinary.com/goatagency/image/facebook/awnnetwork.org',
-    platform_id: 1
+    platform_id: 1,
+    primary_tag_id: 26
   }
 ]
 
@@ -1692,6 +1718,6 @@ puts 'Creating Influencers'
 
 influencers.each do |inf|
   Influencer.create!(inf) do |influencer|
-    influencer.tag_ids = [rand(1..tag_length), rand(1..tag_length), rand(1..tag_length), rand(1..tag_length)]
+    influencer.tag_ids = [rand(1..tag_length), rand(1..tag_length), rand(1..tag_length), rand(1..tag_length)] - [influencer.primary_tag_id]
   end
 end
